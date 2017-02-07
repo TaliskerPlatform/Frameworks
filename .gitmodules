@@ -1,0 +1,3 @@
+[submodule "PersonalityKit"]
+	path = PersonalityKit
+	url = git://github.com/TaliskerPlatform/PersonalityKit.framework.git
